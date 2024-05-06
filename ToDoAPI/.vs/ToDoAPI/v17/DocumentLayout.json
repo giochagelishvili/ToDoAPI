@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\middlewares\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\middlewares\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\extensions\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\extensions\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\auth\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\auth\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\auth\\authconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\auth\\authconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE799290-3712-45D5-8EC9-E3D67E2288A8}|ToDo.Persistence\\ToDo.Persistence.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.persistence\\context\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE799290-3712-45D5-8EC9-E3D67E2288A8}|ToDo.Persistence\\ToDo.Persistence.csproj|solutionrelative:todo.persistence\\context\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\middlewares\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\middlewares\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD0C250-5DC9-4C5C-878A-08AC750FD249}|ToDo.Domain\\ToDo.Domain.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD0C250-5DC9-4C5C-878A-08AC750FD249}|ToDo.Domain\\ToDo.Domain.csproj|solutionrelative:todo.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F2A829-A054-4029-B2BA-E3C774A5A4A3}|ToDo.Infrastructure\\ToDo.Infrastructure.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F2A829-A054-4029-B2BA-E3C774A5A4A3}|ToDo.Infrastructure\\ToDo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F2A829-A054-4029-B2BA-E3C774A5A4A3}|ToDo.Infrastructure\\ToDo.Infrastructure.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.infrastructure\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F2A829-A054-4029-B2BA-E3C774A5A4A3}|ToDo.Infrastructure\\ToDo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.api\\infrastructure\\validators\\userrequestpostmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0257CB1-CD8E-4D26-A74D-3062AB6E4435}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\infrastructure\\validators\\userrequestpostmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4279FB6-49BB-4338-8E45-43DC85CC87D5}|ToDo.Application\\ToDo.Application.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.application\\todos\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4279FB6-49BB-4338-8E45-43DC85CC87D5}|ToDo.Application\\ToDo.Application.csproj|solutionrelative:todo.application\\todos\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4279FB6-49BB-4338-8E45-43DC85CC87D5}|ToDo.Application\\ToDo.Application.csproj|c:\\users\\user\\desktop\\github\\todoapi\\todoapi\\todo.application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4279FB6-49BB-4338-8E45-43DC85CC87D5}|ToDo.Application\\ToDo.Application.csproj|solutionrelative:todo.application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\AuthExtensions.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Extensions\\AuthExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\AuthExtensions.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Extensions\\AuthExtensions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:56:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\appsettings.json",
+              "RelativeToolTip": "ToDo.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T16:55:21.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Auth\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Auth\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Auth\\JwtHelper.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Auth\\JwtHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:54:09.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToDoItemService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Application\\ToDos\\ToDoItemService.cs",
+              "RelativeDocumentMoniker": "ToDo.Application\\ToDos\\ToDoItemService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Application\\ToDos\\ToDoItemService.cs",
+              "RelativeToolTip": "ToDo.Application\\ToDos\\ToDoItemService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:42:37.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Program.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Program.cs",
+              "RelativeToolTip": "ToDo.API\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:02:01.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwaggerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\SwaggerConfiguration.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Extensions\\SwaggerConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\SwaggerConfiguration.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Extensions\\SwaggerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:17:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CultureMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\CultureMiddleware.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Middlewares\\CultureMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\CultureMiddleware.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Middlewares\\CultureMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:06:43.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:25:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Auth\\AuthConfiguration.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Auth\\AuthConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Auth\\AuthConfiguration.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Auth\\AuthConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:30:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRequestPostModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Validators\\UserRequestPostModelValidator.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Validators\\UserRequestPostModelValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Validators\\UserRequestPostModelValidator.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Validators\\UserRequestPostModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:51:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ToDo.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:34:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Persistence\\Context\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "ToDo.Persistence\\Context\\ToDoContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Persistence\\Context\\ToDoContext.cs",
+              "RelativeToolTip": "ToDo.Persistence\\Context\\ToDoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:10:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Infrastructure\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.Infrastructure\\Users\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Infrastructure\\Users\\UserRepository.cs",
+              "RelativeToolTip": "ToDo.Infrastructure\\Users\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:20:19.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Application\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "ToDo.Application\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Application\\Users\\UserService.cs",
+              "RelativeToolTip": "ToDo.Application\\Users\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:42:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\ApiError.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Middlewares\\ApiError.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\ApiError.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Middlewares\\ApiError.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:00:21.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Infrastructure\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.API\\Infrastructure\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "ToDo.API\\Infrastructure\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:57:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Domain\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ToDo.Domain\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Domain\\BaseEntities\\BaseEntity.cs",
+              "RelativeToolTip": "ToDo.Domain\\BaseEntities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:41:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Infrastructure\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.Infrastructure\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Github\\ToDoAPI\\ToDoAPI\\ToDo.Infrastructure\\BaseRepository.cs",
+              "RelativeToolTip": "ToDo.Infrastructure\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:41:47.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
